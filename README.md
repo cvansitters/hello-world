@@ -1,2 +1,3 @@
 # hello-world
-My first lesson
+My first lesson.
+This is my first lesson.
